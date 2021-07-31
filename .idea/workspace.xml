@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55e12c54-aa2a-4dac-84b4-d5d49e945982" name="Default Changelist" comment="" />
+    <list default="true" id="55e12c54-aa2a-4dac-84b4-d5d49e945982" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/bigPack/Year_2019/Day_1/Day1Logic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bigPack/Year_2019/Day_1/Day1P1_2019.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bigPack/Year_2019/Day_1/Day1P2_2019.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bigPack/Year_2019/Day_1/puzzleInput.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bigPack/AOC_Selector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bigPack/AOC_Selector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bigPack/Year_2020/Day_1/Day1Logic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bigPack/Year_2020/Day_1/Day1Logic.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -84,5 +92,16 @@
       <updated>1627698416969</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

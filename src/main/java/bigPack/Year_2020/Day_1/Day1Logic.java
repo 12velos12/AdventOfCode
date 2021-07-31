@@ -26,6 +26,7 @@ public class Day1Logic {
             }
         }
 
+        System.out.println("Error: Day1Logic - Could not find sum 2020");
         return sumNums;
     }
 
@@ -53,6 +54,7 @@ public class Day1Logic {
             }
         }
 
+        System.out.println("Error: Day1Logic - Could not find sum 2020");
         return sumNums;
     }
 

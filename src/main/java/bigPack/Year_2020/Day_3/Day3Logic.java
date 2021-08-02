@@ -5,7 +5,7 @@ import bigPack.txt_ArrayList;
 import java.util.ArrayList;
 
 public class Day3Logic {
-    ArrayList<String> map = new ArrayList<>();
+    private ArrayList<String> map = new ArrayList<>();
 
     public ArrayList<String> getMap() {
         return map;

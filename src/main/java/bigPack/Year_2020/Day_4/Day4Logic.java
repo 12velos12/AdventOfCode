@@ -5,8 +5,8 @@ import bigPack.txt_ArrayList;
 import java.util.ArrayList;
 
 public class Day4Logic {
-    ArrayList<String> rawPassportList = new ArrayList<>();
-    ArrayList<String> PassportList = new ArrayList<>();
+    private ArrayList<String> rawPassportList = new ArrayList<>();
+    private ArrayList<String> PassportList = new ArrayList<>();
 
     public ArrayList<String> getRawPassportList() {
         return rawPassportList;

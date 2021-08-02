@@ -6,7 +6,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 
 public class Day5Logic {
-    ArrayList<String> boardingPassList;
+    private ArrayList<String> boardingPassList;
     private static final int minRow = 0, maxRow = 127;
     private static final int minCol = 0, maxCol = 7;
 

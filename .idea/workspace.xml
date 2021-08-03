@@ -5,16 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="55e12c54-aa2a-4dac-84b4-d5d49e945982" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/bigPack/Year_2020/Day_7/BagRule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bigPack/Year_2020/Day_7/Day7Logic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bigPack/Year_2020/Day_7/Day7P1_2020.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bigPack/Year_2020/Day_7/Day7P2_2020.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bigPack/Year_2020/Day_7/Example1Input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bigPack/Year_2020/Day_7/Example2Input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bigPack/Year_2020/Day_7/PuzzleInput.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bigPack/Year_2020/Day_8/Day8Logic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bigPack/Year_2020/Day_8/Day8P1_2020.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bigPack/Year_2020/Day_8/Day8P2_2020.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bigPack/Year_2020/Day_8/Example1Input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bigPack/Year_2020/Day_8/PuzzleInput.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/bigPack/AOC_Selector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bigPack/AOC_Selector.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/bigPack/AOC_Selector.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/bigPack/AOC_Selector.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

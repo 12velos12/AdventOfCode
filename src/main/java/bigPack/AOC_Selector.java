@@ -9,9 +9,10 @@ import bigPack.Year_2020.Day_4.*;
 import bigPack.Year_2020.Day_5.*;
 import bigPack.Year_2020.Day_6.*;
 import bigPack.Year_2020.Day_7.*;
+import bigPack.Year_2020.Day_8.*;
 
 public class AOC_Selector {
     public static void main(String[] args) {
-        Day7P2_2020 day = new Day7P2_2020();
+        Day8P2_2020 day = new Day8P2_2020();
     }
 }

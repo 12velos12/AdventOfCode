@@ -1,18 +1,9 @@
 package bigPack;
 
-import bigPack.Year_2019.Day_1.*;
-import bigPack.Year_2019.Day_2.*;
-import bigPack.Year_2020.Day_1.*;
-import bigPack.Year_2020.Day_2.*;
-import bigPack.Year_2020.Day_3.*;
-import bigPack.Year_2020.Day_4.*;
-import bigPack.Year_2020.Day_5.*;
-import bigPack.Year_2020.Day_6.*;
-import bigPack.Year_2020.Day_7.*;
-import bigPack.Year_2020.Day_8.*;
+import bigPack.Year_2020.Day_9.*;
 
 public class AOC_Selector {
     public static void main(String[] args) {
-        Day8P2_2020 day = new Day8P2_2020();
+        Day9P2_2020 day = new Day9P2_2020();
     }
 }

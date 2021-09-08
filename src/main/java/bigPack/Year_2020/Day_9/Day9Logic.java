@@ -5,7 +5,7 @@ import bigPack.txt_ArrayList;
 import java.util.ArrayList;
 
 public class Day9Logic {
-    ArrayList<Long> longInputList = new ArrayList<>();
+    ArrayList<Long> longInputList;
     int preambleLength;
 
     Day9Logic(int preambleLength){

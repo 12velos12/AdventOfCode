@@ -5,13 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="55e12c54-aa2a-4dac-84b4-d5d49e945982" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/bigPack/Year_2020/Day_9/Day9Logic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bigPack/Year_2020/Day_9/Day9P1_2020.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bigPack/Year_2020/Day_9/Day9P2_2020.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bigPack/Year_2020/Day_9/Example1Input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bigPack/Year_2020/Day_9/puzzleInput.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bigPack/Year_2020/Day_10/Day10Logic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bigPack/Year_2020/Day_10/Day10P1_2020.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bigPack/Year_2020/Day_10/Day10P2_2020.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bigPack/Year_2020/Day_10/Example1Input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bigPack/Year_2020/Day_10/Example2Input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bigPack/Year_2020/Day_10/puzzleInput.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/bigPack/AOC_Selector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bigPack/AOC_Selector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bigPack/Year_2020/Day_9/Day9Logic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bigPack/Year_2020/Day_9/Day9Logic.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/bigPack/AOC_Selector.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/bigPack/AOC_Selector.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

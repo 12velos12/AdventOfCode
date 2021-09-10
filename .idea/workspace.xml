@@ -5,12 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="55e12c54-aa2a-4dac-84b4-d5d49e945982" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/bigPack/Year_2020/Day_11/Day11Logic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bigPack/Year_2020/Day_11/Day11P1_2020.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bigPack/Year_2020/Day_11/Day11P2_2020.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bigPack/Year_2020/Day_11/Example1Input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bigPack/Year_2020/Day_11/Ferry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bigPack/Year_2020/Day_11/PuzzleInput.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bigPack/Year_2020/Day_12/Day12Logic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bigPack/Year_2020/Day_12/Day12P1_2020.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bigPack/Year_2020/Day_12/Day12P2_2020.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bigPack/Year_2020/Day_12/Direction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bigPack/Year_2020/Day_12/Example1Input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bigPack/Year_2020/Day_12/PuzzleInput.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bigPack/Year_2020/Day_12/Ship.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bigPack/Year_2020/Day_12/Waypoint.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/bigPack/AOC_Selector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bigPack/AOC_Selector.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/bigPack/AOC_Selector.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/bigPack/AOC_Selector.class" afterDir="false" />
@@ -32,6 +34,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="1w3s4f9fMLMJJq0ntaW14W8a2fE" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
